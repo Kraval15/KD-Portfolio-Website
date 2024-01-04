@@ -270,7 +270,8 @@ const projects = [
       },
     ],
     image: website,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Kraval15/KD-Portfolio-Website",
+    url: "https://kuldeep-portfolio-website.netlify.app/",
   },
 ];
 
